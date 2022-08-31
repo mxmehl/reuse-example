@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: REUSE
+Upstream-Contact:  <>
+Source:
+
+Files: img/dog*
+Copyright: 2022 me
+License: MIT

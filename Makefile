@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 helloworld: src/main.o
 	gcc src/main.o -o helloworld
 

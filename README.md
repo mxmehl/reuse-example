@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2022 me
+
+SPDX-License-Identifier: MIT
+-->
+
 # REUSE Example
 
 This file is an example repository for REUSE compliance.  It is identical to
