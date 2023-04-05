@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: reuse-example
+Upstream-Contact: Carmen Bianca Bakker <carmenbianca@fsfe.org>
+Source: https://github.com/fsfe/reuse-example
+
+Files: img/*
+Copyright: Tester Testerson
+License: Apache-2.0
+
+Files: .gitignore
+Copyright: Tester Testerson
+License: LicenseRef-I-seem-to-be-ignored
